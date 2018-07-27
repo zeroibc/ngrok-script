@@ -1,0 +1,10 @@
+authtoken: 
+
+#tunnels:
+#    demo:
+#    proto: http
+#    addr: 9090
+#    subdomain: alan-httpbin
+#    hostname: demo.inconshreveable.com
+#    inspect: false
+#    auth: "demo:secret"
