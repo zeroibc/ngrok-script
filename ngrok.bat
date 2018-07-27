@@ -1,1 +1,1 @@
-.\ngrok.exe http -config=.\ngrok.yml -host-header=%1 %2
+%~dp0\ngrok.exe http -config=%~dp0\ngrok.yml -host-header=%1 %2
