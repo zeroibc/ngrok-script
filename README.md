@@ -5,7 +5,7 @@
 
 先注册账号然后替换 `ngrok.yml` 文件中的 `authtoken`  
 
-![1532657067925](C:\Users\ADMINI~1\AppData\Local\Temp\1532657067925.png)
+![1532657067925](https://s1.ax1x.com/2018/07/27/PNI8b9.png)
 
 ## 使用
 
